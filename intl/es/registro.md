@@ -1,6 +1,6 @@
 # 100 días de código - Diario
 
-### Día 0: 17 de Abril de 2024
+### Día 1: 17 de Abril de 2024
 
 **Progreso de hoy**: Empecé con Foundations en The Odin Project.
 

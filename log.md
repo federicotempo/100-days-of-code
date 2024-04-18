@@ -11,5 +11,5 @@
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project, todavía no vi mucho codigo. Lei sobre los conceptos de lo que es internet, servidores DNS, router, etcetc. Instale un entorno virtual de Linux en mi computadora (cosa que no habia hecho nunca) y le instale VScode. Lo ultimo que vi y que vere mañana es lo de usar los comandos en la terminal.
 
-**Reflexiones:** Un poco abrumado con haber instalado Linux, especialmente porque me funciona un poco lento y eso me desalienta. Tampoco entiendo que tan importante va a ser porque el otro curso lo venia haciendo con windows y todo bien...pero bueno, confiare en el proceso. 
+**Reflexiones:** Un poco abrumado con haber instalado Linux, especialmente porque me funciona un poco lento y eso me desalienta. Tampoco entiendo que tan importante va a ser porque el otro curso lo venia haciendo con windows y todo bien...pero bueno, confiare en el proceso.
 **Enlace a mi trabajo:** Ninguno aún.

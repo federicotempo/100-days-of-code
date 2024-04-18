@@ -1,4 +1,4 @@
-# 100 días de código - diario
+# 100 días de código - Diario
 
 ### Día 0: 30 de febrero de 2016 (ejemplo 1)
 

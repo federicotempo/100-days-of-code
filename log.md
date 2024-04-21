@@ -23,3 +23,12 @@
 **Reflexiones:** Hoy más motivado, me gusta este tipo es estudio.
 
 **Enlace a mi trabajo:** Ninguno aún.
+
+### Día 4: 21 de Abril de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Lei articulos de los comandos más básicos para usar en consola. Como cp y mv para copiar o mover/renombrar. Tambien los comandos nano y touch para crear archivos de texto. Y por ultimo el comando mkdir para crear un directorio (carpeta)
+
+**Reflexiones:** Motivado.
+
+**Enlace a mi trabajo:** Ninguno aún.
+

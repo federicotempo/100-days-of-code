@@ -32,3 +32,10 @@
 
 **Enlace a mi trabajo:** Ninguno aún.
 
+### Día 5: 22 de Abril de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Termine con la lección de los comandos. Configure git a través de la consola y el ssh key.
+
+**Reflexiones:** Preparando el terreno para seguir de a poco seguir con el curso.
+
+**Enlace a mi trabajo:** Ninguno aún.

@@ -39,3 +39,12 @@
 **Reflexiones:** Preparando el terreno para seguir de a poco seguir con el curso.
 
 **Enlace a mi trabajo:** Ninguno aún.
+
+### Día 6: 23 de Abril de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Termine con la lección de las pre-instalaciones y de git y empece con fundamentos de HTML. Hasta ahora lo básico, nada que no sepa pero fundando los cimientos. Como nuevo fue usar git desde la consola y afianzar esos conocimientos con los comandos. Cree un primer repositorio y un primer HTML del curso.
+
+**Reflexiones:** Motivado en seguir aprendiendo.
+
+**Enlace a mi trabajo:** Ninguno aún.
+

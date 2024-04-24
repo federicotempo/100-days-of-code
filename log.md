@@ -48,3 +48,11 @@
 
 **Enlace a mi trabajo:** Ninguno aún.
 
+### Día 7: 24 de Abril de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Hoy lei mientras estaba en el trabajo algunas lecciones de HTML. Nada nuevo, repasando cosas como titles h1..h6, parrafos, bold, italic. Vi lo videos que acompañaban a la leccion y me queda como tarea hacer las actividades de las clases. Tambien lei y me queda de tarea lo relacionado con las listas desordenadas ul y las ordenadas ol, con sus respectivos items li.
+
+**Reflexiones:** Motivado en seguir aprendiendo.
+
+**Enlace a mi trabajo:** Ninguno aún.
+

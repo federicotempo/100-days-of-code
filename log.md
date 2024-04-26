@@ -56,3 +56,9 @@
 
 **Enlace a mi trabajo:** Ninguno aún.
 
+### Día 8: 25 de Abril de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Hoy hice las tareas pendientes de los fundamentos de html. Lei links y imagenes y practique con los ejemplos de la pagina. Me quedo por ver unos pequeños videos para cerrar esa lección.
+**Reflexiones:** Muy motivado en seguir aprendiendo. Me di cuenta que todo lo que fui aprendiendo antes lo tengo bastante en firme.
+
+**Enlace a mi trabajo:** Ninguno aún.

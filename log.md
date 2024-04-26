@@ -63,7 +63,7 @@
 
 **Enlace a mi trabajo:** Ninguno aún.
 
-### Día 8: 26 de Abril de 2024
+### Día 9: 26 de Abril de 2024
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Casi cerrando lo básico de HTML. Luego de leer lo que me queda tengo que hacer el primer project: Recipes.
 **Reflexiones:** Muy motivado en seguir aprendiendo.

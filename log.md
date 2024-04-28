@@ -6,7 +6,7 @@
 
 **Reflexiones:** Siento que al fin encontre la ruta para convertirme en full stack developer. Voy a leer y hacer el TOP al menos 1 hora al día y los días que no tenga trabajo voy a continuar con r/Argentina Programa.  
 
-**Enlace a mi trabajo:** Ninguno aún.
+
 
 ### Día 2: 18 de Abril de 2024
 
@@ -14,7 +14,7 @@
 
 **Reflexiones:** Un poco abrumado con haber instalado Linux, especialmente porque me funciona un poco lento y eso me desalienta. Tampoco entiendo que tan importante va a ser porque el otro curso lo venia haciendo con windows y todo bien...pero bueno, confiare en el proceso.
 
-**Enlace a mi trabajo:** Ninguno aún.
+
 
 ### Día 3: 19 de Abril de 2024
 
@@ -22,7 +22,7 @@
 
 **Reflexiones:** Hoy más motivado, me gusta este tipo es estudio.
 
-**Enlace a mi trabajo:** Ninguno aún.
+
 
 ### Día 4: 21 de Abril de 2024
 
@@ -30,7 +30,7 @@
 
 **Reflexiones:** Motivado.
 
-**Enlace a mi trabajo:** Ninguno aún.
+
 
 ### Día 5: 22 de Abril de 2024
 
@@ -38,7 +38,7 @@
 
 **Reflexiones:** Preparando el terreno para seguir de a poco seguir con el curso.
 
-**Enlace a mi trabajo:** Ninguno aún.
+
 
 ### Día 6: 23 de Abril de 2024
 
@@ -46,7 +46,6 @@
 
 **Reflexiones:** Motivado en seguir aprendiendo.
 
-**Enlace a mi trabajo:** Ninguno aún.
 
 ### Día 7: 24 de Abril de 2024
 
@@ -54,18 +53,27 @@
 
 **Reflexiones:** Motivado en seguir aprendiendo.
 
-**Enlace a mi trabajo:** Ninguno aún.
+
 
 ### Día 8: 25 de Abril de 2024
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Hoy hice las tareas pendientes de los fundamentos de html. Lei links y imagenes y practique con los ejemplos de la pagina. Me quedo por ver unos pequeños videos para cerrar esa lección.
 **Reflexiones:** Muy motivado en seguir aprendiendo. Me di cuenta que todo lo que fui aprendiendo antes lo tengo bastante en firme.
 
-**Enlace a mi trabajo:** Ninguno aún.
+
 
 ### Día 9: 26 de Abril de 2024
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Casi cerrando lo básico de HTML. Luego de leer lo que me queda tengo que hacer el primer project: Recipes.
 **Reflexiones:** Muy motivado en seguir aprendiendo.
 
-**Enlace a mi trabajo:** Ninguno aún.
+
+### Día 10: 27 de Abril de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Cerre lo básico de HTML y y empecé con el repositorio de Recipes para hacer de entrega.
+**Reflexiones:** Me gustó la dinamica de lo práctico.
+
+### Día 11: 28 de Abril de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Empecé con lo básico de CSS, hasta el momento sabia todo pero me sirvió ver los conceptos básicos. Lei solo teoria y vi como empezar a hacer los ejercicios propuestos.
+**Reflexiones:** Me incentiva ver que hay repos con ejercicios para hacer y estan bien explicados y las instrucciones son faciles de seguir.

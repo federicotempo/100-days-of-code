@@ -77,3 +77,9 @@
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Empecé con lo básico de CSS, hasta el momento sabia todo pero me sirvió ver los conceptos básicos. Lei solo teoria y vi como empezar a hacer los ejercicios propuestos.
 **Reflexiones:** Me incentiva ver que hay repos con ejercicios para hacer y estan bien explicados y las instrucciones son faciles de seguir.
+
+### Día 12: 29 de Abril de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Hice los 4 primeros ejercicios de CSS. Los pude hacer bien de primer arranque.
+**Reflexiones:** Motivado. Estoy con poco trabajo estos días asique puedo sumar mas de una hora tirando código.
+

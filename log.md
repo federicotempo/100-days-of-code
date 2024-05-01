@@ -71,3 +71,8 @@
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Termine con los ejercicios de CSS y le puso estilos al repo de Recipes. Lei en el trabajo "Inspecting HTML and CSS".
 **Reflexiones:** Motivado. Estoy con poco trabajo estos días asique puedo sumar mas de una hora tirando código.
+
+### Día 14: 1 de Mayo de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Hoy lei bastante de The Box Model.
+**Reflexiones:** Motivado. Aproveche la mañana del feriado.

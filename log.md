@@ -81,3 +81,9 @@
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Hoy lei un poco de The Box Model, no pude terminar aún.
 **Reflexiones:** Motivado. 
+
+
+### Día 16: 3 de Mayo de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Hoy termine con The Box Model, no pude terminar aún el test aun.
+**Reflexiones:** Motivado.

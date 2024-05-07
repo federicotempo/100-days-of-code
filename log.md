@@ -87,3 +87,13 @@
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Hoy termine con The Box Model, no pude terminar aún el test aun.
 **Reflexiones:** Motivado.
+
+### Día 17: 4 de Mayo de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Hoy lei block and inline.
+**Reflexiones:** Motivado.
+
+### Día 18: 6 de Mayo de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Hoy continue con block and inline. Vi conceptos de display (block, inline-block, inline). Me quedan hacer los ejercicios de esa sección
+**Reflexiones:** Motivado.

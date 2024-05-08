@@ -103,3 +103,7 @@
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Hoy continue con block and inline, hice los ejercicios y me quedó pendiente agregarle lo aprendido al repositorio de Recipes. Leí el primer modulo de Flexbox.
 **Reflexiones:** Muy motivado.
 
+### Día 20: 8 de Mayo de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Hoy termine tarea de block and inline modificando el CSS de Recipes (padding, border y margin). Tengo que continuar leyendo los modulos de flexbox.
+**Reflexiones:** Motivado.

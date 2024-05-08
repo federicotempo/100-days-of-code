@@ -97,3 +97,9 @@
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Hoy continue con block and inline. Vi conceptos de display (block, inline-block, inline). Me quedan hacer los ejercicios de esa sección
 **Reflexiones:** Motivado.
+
+### Día 19: 7 de Mayo de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Hoy continue con block and inline, hice los ejercicios y me quedó pendiente agregarle lo aprendido al repositorio de Recipes. Leí el primer modulo de Flexbox.
+**Reflexiones:** Muy motivado.
+

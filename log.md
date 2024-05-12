@@ -117,3 +117,8 @@
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Hoy lei flexbox y llegue hasta alignment. Me falta todo el assingment pero vengo bien, pude leer bastante.
 **Reflexiones:** Motivado.
+
+### Día 23: 11 de Mayo de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Lei la guia "interactive guide to Flexbox" que explica todos los conceptos de flexbox de forma interactiva y muy simple.
+**Reflexiones:** Motivado.

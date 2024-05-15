@@ -132,3 +132,8 @@
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Casi lei entero el articulo de MDN de alignment de flexbox. No estoy pudiendo avanzar todo lo que quiero por el trabajo y examen de ingles.
 **Reflexiones:** Cansado!! Pero ya voy a repuntar.
+
+### Día 26: 15 de Mayo de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Ya lei todo alignment de flexbox. Me queda empezar a hacer la tarea de esa sección y el project de la unidad.
+**Reflexiones:** Motivado

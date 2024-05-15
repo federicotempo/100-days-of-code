@@ -127,3 +127,8 @@
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Terminé la guia "interactive guide to Flexbox" que explica todos los conceptos de flexbox de forma interactiva y muy simple.
 **Reflexiones:** Motivado.
+
+### Día 25: 14 de Mayo de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Casi lei entero el articulo de MDN de alignment de flexbox. No estoy pudiendo avanzar todo lo que quiero por el trabajo y examen de ingles.
+**Reflexiones:** Cansado!! Pero ya voy a repuntar.

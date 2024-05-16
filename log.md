@@ -137,3 +137,8 @@
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Ya lei todo alignment de flexbox. Me queda empezar a hacer la tarea de esa sección y el project de la unidad.
 **Reflexiones:** Motivado
+
+### Día 27: 16 de Mayo de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Empece leyendo la unidad de javascript.
+**Reflexiones:** Motivado

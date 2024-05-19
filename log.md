@@ -142,3 +142,8 @@
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Empece leyendo la unidad de javascript.
 **Reflexiones:** Motivado
+
+### Día 28: 17 de Mayo de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Sigo leyendo la unidad de javascript.
+**Reflexiones:** Motivado

@@ -152,3 +152,8 @@
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Sigo leyendo la unidad de javascript, termine de leer el articulo de MDN.
 **Reflexiones:** Motivado
+
+### Día 30: 20 de Mayo de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Termine de leer el articulo de numbers de js, junto con bibliografia de maths and basic operators. Mañana voy a terminar con los ejercicios del ultimo articulo y luego hacer assingments pendientes.
+**Reflexiones:** Motivado

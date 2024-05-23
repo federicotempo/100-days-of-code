@@ -162,3 +162,8 @@
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Termine de leer el articulo de variables and operators. 
 **Reflexiones:** Poco motivado la verdad, siento que no tengo tiempo para avanzar.
+
+### Día 32: 23 de Mayo de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Leyendo data types and conditionals.
+**Reflexiones:** Poco motivado la verdad, siento que no tengo tiempo para avanzar.

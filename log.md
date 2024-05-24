@@ -167,3 +167,8 @@
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Leyendo data types and conditionals.
 **Reflexiones:** Poco motivado la verdad, siento que no tengo tiempo para avanzar.
+
+### Día 33: 24 de Mayo de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Lei bastante y me acomode mentalmente en mis cosas pendientes. Me queda el assingment de flexbox de  alignment y el project de esa seccion. Luego de variables and operators lei todo y hice los ejercicios de los articulos, me falta hacer el assingment de esa sección. De data types and conditionals lei todo strings y hice ejercicios de articulos, luego lei e hice el task de comparisons de conditionals. Me falta leer todos los otros articulos y despues hacer assingment de la seccion.
+**Reflexiones:** Mejor. Se abrio un puesto en Auravant. Me gustaría intentar mis posibilidades.

@@ -172,3 +172,8 @@
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Lei bastante y me acomode mentalmente en mis cosas pendientes. Me queda el assingment de flexbox de  alignment y el project de esa seccion. Luego de variables and operators lei todo y hice los ejercicios de los articulos, me falta hacer el assingment de esa sección. De data types and conditionals lei todo strings y hice ejercicios de articulos, luego lei e hice el task de comparisons de conditionals. Me falta leer todos los otros articulos y despues hacer assingment de la seccion.
 **Reflexiones:** Mejor. Se abrio un puesto en Auravant. Me gustaría intentar mis posibilidades.
+
+### Día 34: 27 de Mayo de 2024
+
+**Progreso de hoy**: Sigo con Foundations en The Odin Project. Lei mucho sobre conditionals en el trabajo, de operadores de comparación también. Encontre el curso de React que voy a hacer.
+**Reflexiones:** Mejor. Bruno me comento que me van a entrevistar para ese puesto. Deberia aprender React cuanto antes.

@@ -177,3 +177,8 @@
 
 **Progreso de hoy**: Sigo con Foundations en The Odin Project. Lei mucho sobre conditionals en el trabajo, de operadores de comparación también. Encontre el curso de React que voy a hacer.
 **Reflexiones:** Mejor. Bruno me comento que me van a entrevistar para ese puesto. Deberia aprender React cuanto antes.
+
+### Día 35: 28 de Mayo de 2024
+
+**Progreso de hoy**: Empecé con el curso de React. Instale Vite mas react y aprendi los conceptos de component y fragmentos. Estilos de css en react y ahora empezando con las Props.
+**Reflexiones:** Motivado.

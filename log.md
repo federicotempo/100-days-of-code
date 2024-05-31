@@ -182,3 +182,8 @@
 
 **Progreso de hoy**: Empecé con el curso de React. Instale Vite mas react y aprendi los conceptos de component y fragmentos. Estilos de css en react y ahora empezando con las Props.
 **Reflexiones:** Motivado.
+
+### Día 36: 30 de Mayo de 2024
+
+**Progreso de hoy**: Sigo con el curso de React. Hoy vi el hook useState, condicionales y ternarios y eventos.
+**Reflexiones:** Perdido.
